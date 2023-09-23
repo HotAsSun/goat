@@ -1,0 +1,31 @@
+body{
+
+ background-image: url("./images/about/pexels-stephan-seeber-1261728.jpg"); 
+background-repeat: no-repeat;
+background-size:cover;
+background-position: center;
+background-attachment: fixed;
+}
+#t{
+    font-size: 50px;
+    margin-right:fixed;
+    margin-left:fixed;
+}
+#b-img{
+    border-radius: 50px;
+}
+#s-img{
+    border-radius: 50px;
+}
+#x-img{
+    border-radius: 50px;
+}
+.gif1{
+    margin-left: auto;
+    float: left;
+}
+.gif2{
+    margin-right: auto;
+    float: right;
+}
+/**/
